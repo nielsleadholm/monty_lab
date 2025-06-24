@@ -1,6 +1,6 @@
 # Demonstrating Monty Capabilities Experiments (DEPRECATED)
 
-==== DEPRICATION ====
+==== DEPRECATION ====
 
 This directory contains intitial configs and scripts for early work on the "DMC" paper. It has been depricated and anyone interested in replicating the results of our paper, "Thousand-Brains Systems: Sensorimotor Intelligence for Rapid, Robust Learning and Inference", should refer to the repository here https://github.com/thousandbrainsproject/tbp.tbs_sensorimotor_intelligence
 
