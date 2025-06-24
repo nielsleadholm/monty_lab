@@ -1,4 +1,4 @@
-# Demonstrating Monty Capabilities Experiments (DEPRICATED)
+# Demonstrating Monty Capabilities Experiments (DEPRECATED)
 
 ==== DEPRICATION ====
 
